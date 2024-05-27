@@ -1,0 +1,19 @@
+{
+    "name": "mdlb/chokidar-wrapper",
+    "description": "A wrapper of the node package chokidar using Laravel Events",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mdlb\\Chokidar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TomatoPana",
+            "email": "22053906+TomatoPana@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
